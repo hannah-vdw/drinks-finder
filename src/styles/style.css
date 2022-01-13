@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  padding: 5%;
+}
+
+img {
+  height:300px;
+  border-radius: 5%;
+}
+
+.star {
+  cursor: pointer;
+  font-size: 30px;
+}
+
+.container {
+  position: relative;
+}
+
+.drinks {
+  float: left;
+  left: 0px;
+}
+
+.favourite-drinks {
+  float: right;
+  /* position: absolute; */
+  right: 0px;
+}
