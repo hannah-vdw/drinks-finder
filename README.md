@@ -1,7 +1,7 @@
 
 # About this project
 
-Create React App using redux and an api to allow users to search for types of cocktails and display a list of favourited items.
+Create React App using redux and an api to allow users to search for types of cocktails and display a list of favourited items. 
 
 
 
