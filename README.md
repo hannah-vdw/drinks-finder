@@ -1,3 +1,10 @@
+
+# About this project
+
+Create React App using redux and an api to allow users to search for types of cocktails and display a list of favourited items.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
