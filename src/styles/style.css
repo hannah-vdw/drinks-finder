@@ -13,10 +13,6 @@ img {
   font-size: 30px;
 }
 
-.container {
-  position: relative;
-}
-
 .drinks {
   float: left;
   left: 0px;
@@ -24,6 +20,5 @@ img {
 
 .favourite-drinks {
   float: right;
-  /* position: absolute; */
   right: 0px;
 }

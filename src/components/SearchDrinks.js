@@ -47,11 +47,11 @@ class SearchDrinks extends Component {
         {' '}
 
         <FormGroup>
-          <FormLabel> Glass </FormLabel>
+          <FormLabel> Type of drink </FormLabel>
           {' '}
           <FormControl 
             type='text'
-            placeholder='Cocktail'
+            placeholder='Cocktail, ordinary drink, shot, punch, milk / float / shake'
             onChange={e => this.setState({ category: e.target.value })}
           />
         </FormGroup>
